@@ -14,7 +14,7 @@
 <h2 align="center">🧰 Languages | Frameworks | Tools 🧰</h2>
 <div align="center">
 <br>
-<img src="https://skillicons.dev/icons?i=github,git,bash,idea,docker,linux,ubuntu"> 
+<img src="https://skillicons.dev/icons?i=github,git,bash,idea,docker,linux"> 
 <br>
 <img src="https://skillicons.dev/icons?i=java,redis,mysql,"/> <br>
 </div>
