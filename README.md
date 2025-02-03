@@ -5,9 +5,9 @@
 
 <br>
 
-- 🔭 We are currently working on our **Chat application**, which focuses on **security** and **anonymity**.
-- 🤝 We are looking for **Frontend Developer**!
-- 🌱 We develop our App with **NodeJS**! - **HTML**, **CSS**, **JS**, **TS**, **Tauri** [**Nuxt.JS** - **Vue**]
+- 🔭 We are currently working on our **\*\*\*\*\*\* Server**!
+- 🤝 We are looking for **Java Developer**!
+- 🌱 We develop in **Java**.
 
 <br>
 
